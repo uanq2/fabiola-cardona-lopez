@@ -1,0 +1,45 @@
+.container {
+  position: fixed;
+  height: 120%;
+  width: 250px;
+}
+
+.navbar {
+  height: 120%;
+  width: 250px;
+  background-color: #dec0f1;
+  position: absolute;
+  top: 0;
+  text-align: center;
+  padding: 20px 5px;
+  font-size: larger;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.foto {
+  height: 220px;
+  padding: 10px;
+}
+
+.name {
+  font-family: "Tangerine", cursive;
+  font-size: 50px;
+}
+
+.list {
+  list-style: none;
+  padding: 4px;
+}
+
+.nav-links {
+  text-decoration: none;
+}
+
+.nav-links:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.name:hover {
+  font-weight: normal;
+}
