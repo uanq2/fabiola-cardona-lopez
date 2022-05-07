@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/%7Bfabiola-cardona-lopez%7D/static/css/main.9240fa83.css",
+    "main.js": "/%7Bfabiola-cardona-lopez%7D/static/js/main.c008d98c.js",
+    "static/js/787.32dfa47e.chunk.js": "/%7Bfabiola-cardona-lopez%7D/static/js/787.32dfa47e.chunk.js",
+    "static/media/ceremonia.jpg": "/%7Bfabiola-cardona-lopez%7D/static/media/ceremonia.82b5445ad5c5b12a4526.jpg",
+    "static/media/Funeral_Home.jpeg": "/%7Bfabiola-cardona-lopez%7D/static/media/Funeral_Home.376cc7824e633f169622.jpeg",
+    "static/media/Abuelita2.png": "/%7Bfabiola-cardona-lopez%7D/static/media/Abuelita2.3cad5ffed725f7d432e3.png",
+    "static/media/st_viator.jpeg": "/%7Bfabiola-cardona-lopez%7D/static/media/st_viator.847ff6f3f5dbc9943dce.jpeg",
+    "static/media/Abuelita.png": "/%7Bfabiola-cardona-lopez%7D/static/media/Abuelita.da2d31b79613bcbb36ce.png",
+    "index.html": "/%7Bfabiola-cardona-lopez%7D/index.html",
+    "main.9240fa83.css.map": "/%7Bfabiola-cardona-lopez%7D/static/css/main.9240fa83.css.map",
+    "main.c008d98c.js.map": "/%7Bfabiola-cardona-lopez%7D/static/js/main.c008d98c.js.map",
+    "787.32dfa47e.chunk.js.map": "/%7Bfabiola-cardona-lopez%7D/static/js/787.32dfa47e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9240fa83.css",
+    "static/js/main.c008d98c.js"
+  ]
+}
